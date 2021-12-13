@@ -4,24 +4,11 @@ One-click installation script for Docker and Docker Compose
 
 ### How to use
 
-1. Download `dockerman.sh`
+Run following command under root permissions
 
-	```
-	wget https://raw.githubusercontent.com/tourcoder/Dockerman/master/dockerman.sh
-	```
-
-	Or
-
-	```
-	curl https://raw.githubusercontent.com/tourcoder/Dockerman/master/dockerman.sh -o dockerman.sh
-	```
-
-2. Run following command
-
-	```
-	chmod +x dockerman.sh
-	sudo ./dockerman.sh
-	```
+```
+curl https://raw.githubusercontent.com/tourcoder/Dockerman/master/dockerman.sh | bash
+```
 
 ### How to Collaborate
 
